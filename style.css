@@ -1,0 +1,51 @@
+* {
+    background-color: rgb(245, 210, 165);
+    background-image: url("the_mandalorian.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding: 5px 5px 5px 5px;
+    color: rgb(245, 210, 165);
+}
+html {
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 65px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: left;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: left;
+}
+
+h5 {
+    font-size: 20px;
+    text-align: left;
+}
+
+div {
+    font-size: 20px;
+    padding-top: 3rem;
+}
+
+.links {
+    display: flex;
+    /* justify-content: space-around; */
+    flex-direction: column;
+    padding-top: 1rem;
+}
+
